@@ -5,7 +5,7 @@
 
 The Technical Steering Committee (TSC) is responsible for overseeing all technical aspects of the project, Open Mobile Hub (OMH), and its subsidiary projects under the Linux Foundation Europe organization.
 
-The initial TSC voting members are referenced from the `CONTRIBUTING.md` file within the Project’s code repository as voting members of the TSC. Election or removal of TSC voting members requires a majority vote of the current TSC members. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
+The initial TSC voting members are referenced from the `CONTRIBUTING.md` file within the Project’s code repositories as voting members of the TSC. Election or removal of TSC voting members requires a majority vote of the current TSC members. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
 
 Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
