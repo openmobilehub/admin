@@ -75,7 +75,7 @@ A committer may be retired by approvals of more than half of the committers.
 
 Alternatively, TSC may decide to elect or to retire a committer with TSC voting as well or amend the rules on how to elect/retire committers.
 
-Each committer is also a contributor and should comply with the [Code of Conduct](CODE_OF_CONDUCT.md), Contributing(CONTRIBUTING.md from each repo), this document (GOVERNANCE.md), and [the Linux Foundation's policies](https://lfprojects.org/policies/).
+Each committer is also a contributor and should comply with the [Code of Conduct](CODE_OF_CONDUCT.md), Contributing (CONTRIBUTING.md from each repo), this document (GOVERNANCE.md), and [the Linux Foundation's policies](https://lfprojects.org/policies/).
 
 The committer(s) is/are:
 
