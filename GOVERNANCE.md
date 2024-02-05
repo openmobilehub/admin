@@ -81,6 +81,9 @@ The committer(s) is/are:
 
 - Diego Zuluaga (committer)
 
+# Technical Charter
+[Open Mobile Hub Technical Charter](https://github.com/openmobilehub/admin/blob/main/OPEN_MOBILE_HUB_TECHNICAL_CHARTER.pdf)
+
 ## Periodic Governance Review
 
 This document shall undergo an annual review by the TSC to ensure it remains current and effective. Proposed changes must be approved by a majority vote of the TSC. The review process will consider input from the broader community, maintaining transparency and inclusivity. Updates will be communicated to all project members and made publicly available.
