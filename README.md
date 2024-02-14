@@ -2,7 +2,7 @@
 
 ## Monthly TSC Meetings
 - First Wednesday of Every Month
-- Starting: Feb 7th, 2024 @ 7:00am PST
+- Kick-off: Feb 7th, 2024 @ 7:00am PST
 - Zoom Meeting Info : https://us06web.zoom.us/j/85299246676?pwd=TNNvEjBzzSCJcKGaBHlJw7hltkAETa.1 
 - Meeting ID: 852 9924 6676
 - Passcode: 131131
@@ -20,4 +20,4 @@
 - Adjourn: 7:45am PST; informal discussion following
 
 ## TSC Meeting Notes
-- [Meeting Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?usp=sharing)
+- [Meeting Notes on Google Docs](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?usp=sharing)
