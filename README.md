@@ -1,6 +1,6 @@
-# OMH Technical Steering Committee (TSE) Monthly Meeting
+# OMH Technical Steering Committee (TSE) Monthly Meetings
 
-# Monhtly TSC Meeting
+# Monthly TSC Meetings
 - First Wednesday of Every Month
 - Starting: Feb 7th, 2024 @ 7:00am PST
 - Zoom Meeting Info : https://us06web.zoom.us/j/85299246676?pwd=TNNvEjBzzSCJcKGaBHlJw7hltkAETa.1 
