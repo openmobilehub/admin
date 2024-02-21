@@ -7,6 +7,9 @@
 - Meeting ID: 852 9924 6676
 - Passcode: 131131
 
+## Next TSC Meetings
+- March TSC Meeting rescheduled: Mar 13th, 2024 @ 7:00am PST
+
 ## Standing TSC Agenda
 - Call to order: 7am PST
 - Anti-Trust, Meeting Protocols and Welcome
