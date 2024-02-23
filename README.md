@@ -1,4 +1,4 @@
-# OMH Technical Steering Committee (TSE) Monthly Meetings
+# OMH Technical Steering Committee (TSC) Monthly Meetings
 
 ## Monthly TSC Meetings
 - First Wednesday of Every Month
