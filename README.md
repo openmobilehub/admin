@@ -14,7 +14,7 @@
 - [Meeting notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
 
 ## Kickoff meeting for OMH TSC Members
-- February 7thm 2024
+- February 7th 2024
 - [Meeting notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.k1snhu3h78rv)
 - Call to order: 7am PST
 - Anti-Trust, Meeting Protocols and Welcome
