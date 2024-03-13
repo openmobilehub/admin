@@ -42,5 +42,9 @@ Joining the EAP is a chance to contribute directly to the platform's development
 - **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
 
 ### Kickoff Meeting for OMH TSC Members
-The inaugural meeting took place on February 7th, 2024, covering a range of foundational topics to set the stage for future collaboration and development. Key points and discussions are documented for review: [Kickoff Meeting Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.k1snhu3h78rv).
-# 
+The inaugural meeting took place on February 7th, 2024, covering a range of foundational topics to set the stage for future collaboration and development. Key points and discussions are documented for review: 
+- **Date:** February 7th, 2024
+- **Time:** 7:00am PST
+- **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1tZpZwOHoo_2DoFcmOVmPpYiHi7A0ECT3mfGrS5hKLig/edit?usp=sharing)
+- **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.k1snhu3h78rv)
+
