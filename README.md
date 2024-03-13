@@ -34,7 +34,7 @@ Joining the EAP is a chance to contribute directly to the platform's development
 
 ## Meeting Archives
 
-## March 2024 TSC Meeting
+### March 2024 TSC Meeting
 **Note:** The March 2024 TSC Meeting is rescheduled to:
 - **Date:** March 13th, 2024
 - **Time:** 7:00am PST
