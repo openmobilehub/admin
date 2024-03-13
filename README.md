@@ -15,8 +15,8 @@ For transparency and inclusivity, we document all discussions, decisions, and ac
 ## Next TSC Meeting
 - **Date:** April 3rd, 2024
 - **Time:** 7:00am PST
-- **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
-
+- **Zoom Link:** [Join Meeting](https://us06web.zoom.us/j/85299246676?pwd=TNNvEjBzzSCJcKGaBHlJw7hltkAETa.1)
+  
 ## March 2024 TSC Meeting
 **Note:** The March 2024 TSC Meeting is rescheduled to:
 - **Date:** March 13th, 2024
