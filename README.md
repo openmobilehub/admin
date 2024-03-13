@@ -13,9 +13,15 @@ Welcome to the official documentation for the OMH Technical Steering Committee (
 For transparency and inclusivity, we document all discussions, decisions, and action items. Access the [Meeting Notes on Google Docs](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?usp=sharing).
 
 ## Next TSC Meeting
-**Note:** The March TSC Meeting is rescheduled to:
+- **Date:** April 3rd, 2024
+- **Time:** 7:00am PST
+- **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
+
+## March 2024 TSC Meeting
+**Note:** The March 2024 TSC Meeting is rescheduled to:
 - **Date:** March 13th, 2024
 - **Time:** 7:00am PST
+- **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1KsGmMzcWv2zFbnHPClsfE_lg-8_qybn3hmhPkt5zOBM/edit?usp=sharing)
 - **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
 
 ## Early Access Program (EAP)
