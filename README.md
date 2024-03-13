@@ -17,13 +17,6 @@ For transparency and inclusivity, we document all discussions, decisions, and ac
 - **Time:** 7:00am PST
 - **Zoom Link:** [Join Meeting](https://us06web.zoom.us/j/85299246676?pwd=TNNvEjBzzSCJcKGaBHlJw7hltkAETa.1)
   
-## March 2024 TSC Meeting
-**Note:** The March 2024 TSC Meeting is rescheduled to:
-- **Date:** March 13th, 2024
-- **Time:** 7:00am PST
-- **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1KsGmMzcWv2zFbnHPClsfE_lg-8_qybn3hmhPkt5zOBM/edit?usp=sharing)
-- **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
-
 ## Early Access Program (EAP)
 The EAP is a cornerstone of our collaborative development approach, allowing community members early access to upcoming features. This direct line of feedback is invaluable for refining and enhancing our platform in alignment with user needs.
 
@@ -40,6 +33,14 @@ Get involved in shaping the future of our platform by joining the Early Access P
 Joining the EAP is a chance to contribute directly to the platform's development, ensuring it meets the community's needs and expectations.
 
 ## Meeting Archives
+
+## March 2024 TSC Meeting
+**Note:** The March 2024 TSC Meeting is rescheduled to:
+- **Date:** March 13th, 2024
+- **Time:** 7:00am PST
+- **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1KsGmMzcWv2zFbnHPClsfE_lg-8_qybn3hmhPkt5zOBM/edit?usp=sharing)
+- **Details:** [Meeting Agenda and Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.26cgdphn8xm2)
+
 ### Kickoff Meeting for OMH TSC Members
 The inaugural meeting took place on February 7th, 2024, covering a range of foundational topics to set the stage for future collaboration and development. Key points and discussions are documented for review: [Kickoff Meeting Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.k1snhu3h78rv).
 # 
