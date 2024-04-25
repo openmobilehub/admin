@@ -42,11 +42,7 @@ Joining the EAP is a chance to contribute directly to the platform's development
 ### April 2024 TSC Meeting
 - **Date:** April 3rd, 2024
 - **Time:** 7:00am PST
-- **LFX Meetings Zoom Link:** [Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92128066412?password=3e726378-94e9-4431-bc3f-15366a61d4a6)
-  - Join with your LF ID, email address or use the direct Zoom link and Meeting ID / Passcode
-  - **Meeting ID:** 92128066412
-  - **Passcode:** 258120
-  - **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1LPGyQ7jBWOEKbQfy-9D8TbKtORBWn_bOyzN8VwrXhrI/edit?usp=sharing)
+- **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1LPGyQ7jBWOEKbQfy-9D8TbKtORBWn_bOyzN8VwrXhrI/edit?usp=sharing)
 
 ### March 2024 TSC Meeting
 **Note:** The March 2024 TSC Meeting is rescheduled to:
