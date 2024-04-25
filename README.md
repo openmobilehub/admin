@@ -14,7 +14,8 @@ Welcome to the official documentation for the OMH Technical Steering Committee (
 For transparency and inclusivity, we document all discussions, decisions, and action items. Access the [Meeting Notes on Google Docs](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?usp=sharing).
 
 ## Next TSC Meeting
-- **Date:** April 3rd, 2024
+**Note:** The May 2024 TSC Meeting is rescheduled to:
+- **Date:** May 8th, 2024
 - **Time:** 7:00am PST
 - **LFX Meetings Zoom Link:** [Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92128066412?password=3e726378-94e9-4431-bc3f-15366a61d4a6)
   - Join with your LF ID, email address or use the direct Zoom link and Meeting ID / Passcode
@@ -37,6 +38,15 @@ Get involved in shaping the future of our platform by joining the Early Access P
 Joining the EAP is a chance to contribute directly to the platform's development, ensuring it meets the community's needs and expectations.
 
 ## Meeting Archives
+
+### April 2024 TSC Meeting
+- **Date:** April 3rd, 2024
+- **Time:** 7:00am PST
+- **LFX Meetings Zoom Link:** [Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92128066412?password=3e726378-94e9-4431-bc3f-15366a61d4a6)
+  - Join with your LF ID, email address or use the direct Zoom link and Meeting ID / Passcode
+  - **Meeting ID:** 92128066412
+  - **Passcode:** 258120
+  - **Slides:** [Meeting Slides](https://docs.google.com/presentation/d/1LPGyQ7jBWOEKbQfy-9D8TbKtORBWn_bOyzN8VwrXhrI/edit?usp=sharing)
 
 ### March 2024 TSC Meeting
 **Note:** The March 2024 TSC Meeting is rescheduled to:
