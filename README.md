@@ -1,11 +1,14 @@
 # OMH Technical Steering Committee (TSC) Monthly Meetings
 
-Welcome to the official documentation for the OMH Technical Steering Committee (TSC) Monthly Meetings. This README provides all necessary information for current and prospective TSC members, including meeting schedules, access links, and how to engage with the Early Access Program (EAP).
+Welcome to the official documentation for the OMH TSC Monthly Meetings. This README provides all necessary information for current and prospective TSC members, including meeting schedules, access links, and how to engage with the Early Access Program (EAP).
 
-# Technical Steering Committee (TSC) Monthly Meetings
+# TSC Monthly Meetings
 - **Frequency:** First Wednesday of every month
 - **Location:** Online via Zoom
-  - **LFX Meetings Zoom Link:** [Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92128066412?password=3e726378-94e9-4431-bc3f-15366a61d4a6)
+- **Zoom Link:** [Join Meeting](https://zoom.us/j/92128066412)
+  - **Meeting ID:** 92128066412
+  - **Passcode:** 258120
+- **LFX Meetings Zoom Link:** [Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92128066412?password=3e726378-94e9-4431-bc3f-15366a61d4a6)
   - Join with your LF ID, email address or use the direct Zoom link and Meeting ID / Passcode
   - **Meeting ID:** 92128066412
   - **Passcode:** 258120
@@ -17,10 +20,6 @@ For transparency and inclusivity, we document all discussions, decisions, and ac
 **Note:** The May 2024 TSC Meeting is rescheduled to:
 - **Date:** May 8th, 2024
 - **Time:** 7:00am PST
-- **LFX Meetings Zoom Link:** [Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92128066412?password=3e726378-94e9-4431-bc3f-15366a61d4a6)
-  - Join with your LF ID, email address or use the direct Zoom link and Meeting ID / Passcode
-  - **Meeting ID:** 92128066412
-  - **Passcode:** 258120
 
 ## Early Access Program (EAP)
 The EAP is a cornerstone of our collaborative development approach, allowing community members early access to upcoming features. This direct line of feedback is invaluable for refining and enhancing our platform in alignment with user needs.
