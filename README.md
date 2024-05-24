@@ -18,6 +18,10 @@ Welcome to the official documentation for the OMH Technical Steering Committee (
 - **Date:** June 5th, 2024
 - **Time:** 7:00am PST
 
+## Past Meetings
+
+See [archive](./archive).
+
 ## Meeting Notes
 We document all discussions, decisions, and action items. Access the [Meeting Notes on Google Docs](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?usp=sharing).
 
@@ -35,7 +39,3 @@ Get involved in shaping the future of our platform by joining the Early Access P
 3. **Provide Feedback:** Once in the program, share your insights and suggestions to help improve and refine our features.
 
 Joining the EAP is a chance to contribute directly to the platform's development, ensuring it meets the community's needs and expectations.
-
-## Meeting Archives
-
-See [archive](./archive).
