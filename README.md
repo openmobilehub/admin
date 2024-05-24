@@ -14,7 +14,6 @@ Welcome to the official documentation for the OMH Technical Steering Committee (
   - **Passcode:** 258120
 
 ## Next Meeting
-**Note:** The May 2024 TSC Meeting is rescheduled to:
 - **Date:** June 5th, 2024
 - **Time:** 7:00am PST
 
