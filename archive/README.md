@@ -2,7 +2,19 @@
 
 ## Past TSC Meetings
 
-### July 9th 2024
+### September 4th 2024
+- **Time:** 7:00am PST
+- [Slides](https://docs.google.com/presentation/d/1pdIa8ojqz9bHKHG-ZgqvfANKeH7N54tyaM4lDVS7jq0/edit?usp=drive_link)
+- [Agenda & Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.6jp9is9f2gky)
+- [Recording](https://zoom.us/rec/share/F5bg690vR5qY8datVNaSazvg1e60pRJ30OSEMx13GXxMACeCZKblwEenfgQqHpG5.6kyLxQ8F3FfIHJur)
+  
+### August 7th 2024
+- **Time:** 7:00am PST
+- [Slides](https://docs.google.com/presentation/d/1hNDdu7QUk9EHF0q9J9IhXFHygoupnD-D2HLqY9cp6cc/edit?usp=drive_link)
+- [Agenda & Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.9dqnk2tuidlc)
+- [Recording](https://zoom.us/rec/share/ao1WfTkg0Lih8td-_xVsop2vF6EvGFRIK6CiUk2i3iVotOcxwQyJi5SFLjk9u-C9.bqt_npNj63Bi2Ukx)
+
+  ### July 9th 2024
 - **Time:** 7:00am PST
 - [Slides](https://docs.google.com/presentation/d/1CkTQy3B4ttNy6MpkwblNtLtSKp5hT2Lf1nUAKM0-798/edit?usp=sharing)
 - [Agenda & Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit#heading=h.6jp9is9f2gky)
