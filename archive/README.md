@@ -2,6 +2,12 @@
 
 ## Past TSC Meetings
 
+### November 6th 2024
+- **Time:** 7:00am PST
+- [Slides](https://docs.google.com/presentation/d/1SUpED0oU8H0nD1Ry79Sy0WwnOAeWzAP1xWQL6mh2zxA/edit#slide=id.g2e25f0125d4_0_117)
+- [Agenda & Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?pli=1&tab=t.0#heading=h.bm3bba9n8lmk)
+- [Recording](https://zoom.us/rec/share/P4cIGeCCZJd6LVbbIVN8xhfrUxjjl5QHl30xYfn4MSsLUvQ0P81v9P90lrlraZLQ.0xUlQo7EaeXrld2f)
+
 ### September 4th 2024
 - **Time:** 7:00am PST
 - [Slides](https://docs.google.com/presentation/d/1pdIa8ojqz9bHKHG-ZgqvfANKeH7N54tyaM4lDVS7jq0/edit?usp=drive_link)
