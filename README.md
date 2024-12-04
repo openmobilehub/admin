@@ -33,7 +33,7 @@ Get involved in shaping the future of our platform by joining the Early Access P
 
 1. **Learn About the EAP:** Understand the program's goals by reviewing the [EAP Overview Presentation](https://docs.google.com/presentation/d/1KsGmMzcWv2zFbnHPClsfE_lg-8_qybn3hmhPkt5zOBM/edit#slide=id.g26b61fc7a9c_0_25).
 
-2. **Request Feature Access:** Fill out the [EAP Feature Access Request Form](https://github.com/openmobilehub/admin/issues/new?assignees=dzuluaga%2C+prestonlau&labels=community+request&projects=&template=eap-community-request.md&title=EAP+Feature+Access+Request%3A+%5BFeature+Name%5D) to apply for early access to specific features.
+2. **Request Feature Access:** Fill out the [EAP Feature Access Request Form](https://github.com/openmobilehub/admin/issues/new?assignees=dzuluaga&labels=community+request&projects=&template=eap-community-request.md&title=EAP+Feature+Access+Request%3A+%5BFeature+Name%5D) to apply for early access to specific features.
 
 3. **Provide Feedback:** Once in the program, share your insights and suggestions to help improve and refine our features.
 
