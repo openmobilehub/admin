@@ -15,7 +15,7 @@ In the event a vote cannot be resolved by the TSC, any voting member of the TSC 
 
 The TSC Chair will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC voting members are:
 
-- Preston Lau - TSC Chair (prestonlau@gmail.com)
+- Diego Zuluaga - TSC Chair (diego@openmobilehub.com)
 - Johan Othelius (johan@squidapp.co)
 - Peter John Alexander (alexander@meetkai.com)
 - Karthik Ayyar (karthik@bharos.in)
