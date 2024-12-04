@@ -3,7 +3,7 @@ name: EAP Community Request
 about: GitHub Issue Template for OMH EAP Feature Access Request
 title: 'EAP Feature Access Request: [Feature Name]'
 labels: community request
-assignees: dzuluaga, prestonlau
+assignees: dzuluaga
 
 ---
 
