@@ -55,16 +55,6 @@ TSC projects generally will involve Contributors and Committers. The TSC may ado
 - Committers are Contributors who have earned the ability to modify (“commit”) source code, documentation, or other technical artifacts in a project’s repository; and
 - A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
 
-Here are the contributors of this project:
-
-- Carlos Solorzano (carlos@instantbits.com)
-- Biplove Belwal (biplove@avantgradetech.com)
-- Sean Mao (kmao@perfect365.com)
-- Steve Wei (steve.wei@dingtone.me)
-- Atul Sachdeva (atul@appsmartz.com)
-- Rohan Verma (rohan@mapmyindia.com)
-- Vladimir Ryhlitskiy (vladimirr@digitalchemy.us)
-
 ### Committers
 
 A committer is responsible for reviewing incoming pull-requests and is able to reject or approve pull requests.
