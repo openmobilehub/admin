@@ -3,7 +3,7 @@
 
 ## Technical Steering Committee
 
-The Technical Steering Committee (TSC) is responsible for overseeing all technical aspects of the project, Open Mobile Hub (OMH), and its subsidiary projects under the Linux Foundation Europe organization.
+The Technical Steering Committee (TSC) is responsible for overseeing all technical aspects of the project, Open Mobile Hub (OMH), and its subsidiary projects under the Linux Foundation organization.
 
 The initial TSC voting members are referenced from the `CONTRIBUTING.md` file within the Project’s code repositories as voting members of the TSC. Election or removal of TSC voting members requires a majority vote of the current TSC members. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
 
@@ -11,7 +11,7 @@ Quorum for TSC meetings requires at least fifty percent of all voting members of
 
 Decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. In cases where a majority is not reached, the matter may be deferred to the next meeting or decided through an electronic vote.
 
-In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to LF Europe for assistance in reaching a resolution.
+In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to LF for assistance in reaching a resolution.
 
 The TSC Chair will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC voting members are:
 
@@ -41,7 +41,7 @@ The TSC will be responsible for all aspects of oversight relating to the Project
 - Creating sub-committees or working groups to focus on cross-project technical issues and requirements;
 - Appointing representatives to work with other open source or open standards communities;
 - Establishing community norms, workflows, issuing releases, and security issue reporting policies;
-- Approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING file) and coordinating with LF Europe to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
+- Approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING file) and coordinating with LF to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
 - Discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 - Coordinating any marketing, events, or communications regarding the Project.
 
