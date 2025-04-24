@@ -72,7 +72,7 @@ The committer(s) is/are:
 - Diego Zuluaga (committer)
 
 # Technical Charter
-[Open Mobile Hub Technical Charter]([https://github.com/openmobilehub/admin/blob/main/open-mobile-hub_Charter.pdf])
+[Open Mobile Hub Technical Charter](https://github.com/openmobilehub/admin/blob/main/open-mobile-hub_Charter.pdf)
 
 ## Periodic Governance Review
 
