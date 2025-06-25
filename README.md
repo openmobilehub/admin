@@ -14,7 +14,7 @@ Welcome to the official documentation for the OMH Technical Steering Committee (
   - **Passcode:** 258120
 
 ## Next Meeting
-- **Date:** September, 3er, 2025
+- **Date:** September 3, 2025
 - **Time:** 7:00am PST
 
 ## Past Meetings
