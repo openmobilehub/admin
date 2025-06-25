@@ -1,9 +1,9 @@
-# OMH TSC Monthly Meetings
+# OMH TSC Quarterly Meetings
 
-Welcome to the official documentation for the OMH Technical Steering Committee (TSC) Monthly Meetings. This README provides all necessary information for current and prospective TSC members, including meeting schedules, access links, and how to engage with the Early Access Program (EAP).
+Welcome to the official documentation for the OMH Technical Steering Committee (TSC) Quarterly Meetings. This README provides all necessary information for current and prospective TSC members, including meeting schedules, access links, and how to engage with the Early Access Program (EAP).
 
 # Meeting Schedule
-- **Frequency:** First Wednesday of every month
+- **Frequency:** First Wednesday of the last month of the quarter.
 - **Location:** Online via Zoom
 - **Zoom Link:** [Join Meeting](https://zoom.us/j/92128066412)
   - **Meeting ID:** 92128066412
@@ -14,7 +14,7 @@ Welcome to the official documentation for the OMH Technical Steering Committee (
   - **Passcode:** 258120
 
 ## Next Meeting
-- **Date:** June 18th, 2025
+- **Date:** September, 3er, 2025
 - **Time:** 7:00am PST
 
 ## Past Meetings
