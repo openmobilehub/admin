@@ -2,6 +2,13 @@
 
 ## Past TSC Meetings
 
+### June 18th 2025
+- **Time:** 7:00am PST
+- [Slides](https://docs.google.com/presentation/d/1cuMTaC7117TZkHFhQ1quDEYueS7bfJJ3ZGyFj8DEaFU/edit?usp=sharing)
+- [Agenda & Notes](https://docs.google.com/document/d/1_2VOtY-8bmPi35coWHx8ifvlCarxT0WYzwP9Kd2PA4M/edit?pli=1&tab=t.0#heading=h.bm3bba9n8lmk)
+- [Recording](https://zoom.us/rec/share/LgKiXgNJrJcswRji7tZthlklwKCkSJtQ1eCUb5VZjiLNfw-Ps1cBxza3aPjI3kK0.jfixWaF0ZrRn8J7q)
+
+
 ### March 5th 2025
 - **Time:** 7:00am PST
 - [Slides](https://docs.google.com/presentation/d/1dx-_WitC09CcBotytwVgw156eBNZbyjiQAgmQRUVfKQ/edit#slide=id.g2e25f0125d4_0_117)
